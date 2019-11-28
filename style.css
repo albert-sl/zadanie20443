@@ -1,0 +1,30 @@
+.selektor{
+    
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(209, 78, 17);
+}
+.selektor1{
+    top: 190px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+
+}
+.selektor2{
+    top: 300px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: darkgoldenrod;
+}
+.selektor3{
+    top: 410px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+
+}
